@@ -35,7 +35,7 @@
 <br/>
 ## 👾  What I am interested in learning at some point
 
-<img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" alt="React Native" title="React Native" height="25" />&nbsp;<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />&nbsp;<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS" title="AWS" height="25" />
+<img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" alt="React Native" title="React Native" height="25" />&nbsp;<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />&nbsp;<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon&logoColor=white" alt="AWS" title="AWS" height="25" />
 
 <br/>
 
