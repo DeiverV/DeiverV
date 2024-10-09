@@ -1,12 +1,6 @@
 <div align="center">
 <h1 align="center">Hello, I'm Deiber Verano 👋, Software Developer</h1>
 </div>
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 ## 🛠  Technologies and tools
 
 <a name="learning-now"></a>
@@ -37,14 +31,11 @@
 
 &nbsp;
 <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />&nbsp;<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />
-&nbsp;<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
+&nbsp;<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />&nbsp;<img src="https://img.shields.io/badge/nest.js-282C34?logo=nestJs&logoColor=E0234E" alt="Nest JS logo" title="NestJS" height="25" />&nbsp;<img src="https://img.shields.io/badge/vitest-282C34?logo=vitest&logoColor=fcc72b" alt="Vitest logo" title="Vitest" height="25" />
 <br/>
 ## 👾  What I am interested in learning at some point
 
-<img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" alt="React Native" title="React Native" height="25" />&nbsp;<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />
-
-&nbsp;
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS" title="AWS" height="25" />
+<img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" alt="React Native" title="React Native" height="25" />&nbsp;<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />&nbsp;<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS" title="AWS" height="25" />
 
 <br/>
 
