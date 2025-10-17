@@ -25,7 +25,6 @@
 <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />
-&nbsp;<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon&logoColor=white" alt="AWS" title="AWS" height="25" />
 
 <a name="learning-next"></a>
 <br/>
@@ -34,7 +33,7 @@
 
 &nbsp;
 <img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />
-&nbsp;<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />&nbsp;<img src="https://img.shields.io/badge/nest.js-282C34?logo=nestJs&logoColor=E0234E" alt="Nest JS logo" title="NestJS" height="25" />&nbsp;<img src="https://img.shields.io/badge/vitest-282C34?logo=vitest&logoColor=fcc72b" alt="Vitest logo" title="Vitest" height="25" />
+&nbsp;<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />&nbsp;<img src="https://img.shields.io/badge/nest.js-282C34?logo=nestJs&logoColor=E0234E" alt="Nest JS logo" title="NestJS" height="25" />&nbsp;<img src="https://img.shields.io/badge/vitest-282C34?logo=vitest&logoColor=fcc72b" alt="Vitest logo" title="Vitest" height="25" />&nbsp;<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon&logoColor=white" alt="AWS" title="AWS" height="25" />
 <br/>
 ## 👾  What I am interested in learning at some point
 
